@@ -19,3 +19,6 @@ In your Linux/WSL environment, ensure you have Python and the virtual environmen
 ```bash
 sudo apt update
 sudo apt install python3-full
+
+
+![Demonstração do Sistema](demo.gif)
