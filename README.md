@@ -3,8 +3,8 @@
 This project implements a **Publish/Subscribe (Pub/Sub)** communication paradigm using **gRPC** and **Python**. It was developed as a practical application for Distributed Systems, focusing on Remote Procedure Calls (RPC) and real-time data streaming.
 
 ## 🚀 Project Overview
-The application simulates a **Cryptocurrency Price Alert System**:
-- **Publishers:** Send price updates or news to specific topics (e.g., BTC, ETH).
+The application simulates a **Makeup promo Alert System**:
+- **Publishers:** Send price updates or news to specific topics (Blush, Foundation, Gloss, etc).
 - **Subscribers:** Subscribe to topics of interest and receive real-time notifications via **Server-side Streaming**.
 - **Server (Broker):** Manages subscriptions and distributes messages efficiently without direct coupling between sender and receiver.
 
